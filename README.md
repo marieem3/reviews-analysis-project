@@ -193,7 +193,10 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created as a demonstration of sentiment analysis using modern NLP techniques.
+Mariam Jmal
+Email: jmalmariam3@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/maryem-jmal-b5094b37b
 
 ## 🙏 Acknowledgments
 
