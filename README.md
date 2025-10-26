@@ -34,8 +34,8 @@ evaluate
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/marieem3/reviews-analysis-project/tree/main
-cd sentiment-analysis-project
+git clone https://github.com/marieem3/reviews-analysis-project.git
+cd reviews-analysis-project
 ```
 
 2. Install dependencies:
@@ -78,10 +78,11 @@ The demo will be available at `http://localhost:8501`
 
 ## 🎥 Demo
 
-> **Coming Soon**: A video demonstration of the Streamlit interface will be added here.
+Watch the live demo of the Streamlit application in action:
 
-![Demo Preview](demo_video.gif)
-<!-- Replace with your demo video or GIF once available -->
+[![Demo Video](https://img.youtube.com/vi/-cFvx5xMM0I/maxresdefault.jpg)](https://www.youtube.com/watch?v=-cFvx5xMM0I)
+
+**Click the image above to watch the demo video**
 
 **Demo Features**:
 - Enter any product review text
@@ -193,10 +194,11 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Mariam Jmal
-Email: jmalmariam3@gmail.com
+**Mariam Jmal**
 
-LinkedIn: https://www.linkedin.com/in/maryem-jmal-b5094b37b
+📧 Email: jmalmariam3@gmail.com
+
+💼 LinkedIn: [Maryem Jmal](https://www.linkedin.com/in/maryem-jmal-b5094b37b)
 
 ## 🙏 Acknowledgments
 
